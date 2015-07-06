@@ -1,0 +1,91 @@
+{
+	"total": {
+			"total-reach-count": 10000,
+			"cash-distribution-count": "n/a",
+			"women-percentage": "n/a"
+	},
+	"dolakha": {
+		"district-summary": {
+			"total-reach-count": 10000,
+			"cash-distribution-count": "n/a",
+			"women-percentage": "n/a"
+		},
+		"vdc-summary": [
+			{
+				"name": "Bhimeshwor",
+				"total-reach-count": 1000
+			},
+			{
+				"name": "Sundrawati",
+				"total-reach-count": 10000
+			},
+			{
+				"name": "gaurishankar",
+				"total-reach-count": 10000
+			}
+		]
+	},
+	"dolakha": {
+		"district-summary": {
+			"total-reach-count": 10000,
+			"cash-distribution-count": "n/a",
+			"women-percentage": "n/a"
+		},
+		"vdc-summary": [
+			{
+				"name": "Bhimeshwor",
+				"total-reach-count": 1000
+			},
+			{
+				"name": "Sundrawati",
+				"total-reach-count": 10000
+			},
+			{
+				"name": "gaurishankar",
+				"total-reach-count": 10000
+			}
+		]
+	},
+	"dolakha": {
+		"district-summary": {
+			"total-reach-count": 10000,
+			"cash-distribution-count": "n/a",
+			"women-percentage": "n/a"
+		},
+		"vdc-summary": [
+			{
+				"name": "Bhimeshwor",
+				"total-reach-count": 1000
+			},
+			{
+				"name": "Sundrawati",
+				"total-reach-count": 10000
+			},
+			{
+				"name": "gaurishankar",
+				"total-reach-count": 10000
+			}
+		]
+	},
+	"dolakha": {
+		"district-summary": {
+			"total-reach-count": 10000,
+			"cash-distribution-count": "n/a",
+			"women-percentage": "n/a"
+		},
+		"vdc-summary": [
+			{
+				"name": "Bhimeshwor",
+				"total-reach-count": 1000
+			},
+			{
+				"name": "Sundrawati",
+				"total-reach-count": 10000
+			},
+			{
+				"name": "gaurishankar",
+				"total-reach-count": 10000
+			}
+		]
+	}
+}
